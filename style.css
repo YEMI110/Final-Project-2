@@ -1,0 +1,50 @@
+
+ 
+  
+  .wrapper > * {
+    padding: 1px;
+    flex: 1 500%;
+   
+  }
+  
+  .header {
+    background: tomato;
+    height: 5px;
+   
+  }
+  
+  
+  
+  .main {
+    text-align: left;
+    background: deepskyblue;
+    width: 250px
+  }
+  
+  
+ 
+  
+  body {
+    padding: 20em; 
+  }
+
+  
+
+
+  img {
+    height: 150px;
+    width: 100px;
+    justify-content: center;
+    
+
+  }
+
+  .top-container {
+    background-color: #971c72;
+    padding: 1px;
+    text-align: left;
+    
+  }
+
+  
+  
